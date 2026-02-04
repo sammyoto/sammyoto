@@ -1,1 +1,1 @@
-Hello, my name is Sam Fales. If you have any questions about my code please feel free to email me at samgfales@gmail.com.
+Hello, my name is Sam Fales. If you have any questions about my code please feel free to email me at samgfales@gmail.com. Take a look at my pinned repositories for some of my favorite pieces of work, or at my starred repository lists for specific categories of work that I've done.
